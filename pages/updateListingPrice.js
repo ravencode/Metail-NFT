@@ -1,5 +1,5 @@
 import React, { useContext } from "react";
-import { NFTMarketplaceContext } from "../context/NFTMarketplaceContext";
+import { NFTMarketplaceContext } from "../context/NFTMarketplaceContext.js";
 import Style from "../styles/updateListingPrice.module.css";
 import formStyle from "../styles/Form.module.css";
 import { Brand, Button } from "../components/componentsindex";

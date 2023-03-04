@@ -12,7 +12,7 @@ import {
   Loader,
 } from "../components/componentsindex";
 import { getCreators } from "../Creators/Creators";
-import { NFTMarketplaceContext } from "../context/NFTMarketplaceContext";
+import { NFTMarketplaceContext } from "../context/NFTMarketplaceContext.js";
 
 const Home = () => {
   const { ConnectToWallet } = useContext(NFTMarketplaceContext);

@@ -10,7 +10,7 @@ import {
 } from "../collection/collectionIndex";
 import images from "../img";
 
-import { NFTMarketplaceContext } from "../context/NFTMarketplaceContext";
+import { NFTMarketplaceContext } from "../context/NFTMarketplaceContext.js";
 
 const searchPage = () => {
   const { fetchNFTs, setError } = useContext(NFTMarketplaceContext);
