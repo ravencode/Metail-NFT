@@ -3,7 +3,7 @@ import Image from "next/image";
 import Link from "next/link";
 
 import Style from "./NFTCard.module.css";
-import { NFTMarketplaceContext } from "../../context/NFTMarketplaceContext.js";
+import { NFTMarketplaceContext } from "../../Context/NFTMarketplaceContext.js";
 
 const NFTCard = ({ NFTData }) => {
   const { truncateString } = useContext(NFTMarketplaceContext);

@@ -9,7 +9,7 @@ import { BsSearch } from "react-icons/bs";
 import { CgMenuRight } from "react-icons/cg";
 import { useRouter } from "next/router";
 
-import { NFTMarketplaceContext } from "../../context/NFTMarketplaceContext.js";
+import { NFTMarketplaceContext } from "../../Context/NFTMarketplaceContext.js";
 import Explore from "./Explore/Explore";
 
 const NavBar = () => {
