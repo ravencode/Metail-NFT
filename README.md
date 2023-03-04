@@ -70,10 +70,10 @@ npx hardhat run --network localhost ./scripts/deploy.js
 **Run the seed Script**
 
 ```javascript
-npx hardhat run --network localhost ./scripts/seed-nfts.js
 ```
 
 **Start the development server**
+npx hardhat run --network localhost ./scripts/seed-nfts.js
 
 ```javascript
 npm run dev
