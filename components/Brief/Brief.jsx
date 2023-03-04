@@ -10,9 +10,9 @@ const Brief = () => {
       <div className={Style.Brief_box}>
         <h1>About Us</h1>
         <p>
-          Cyclone strives to be the most trustworthy and secure marketplace for
+          METAil strives to be the most trustworthy and secure marketplace for
           NFTs. Finding and eliminating current vulnerabilities is a top
-          priority.
+          priority. 
         </p>
 
         <div className={Style.Brief_box_frame}>

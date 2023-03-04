@@ -16,8 +16,8 @@ const Brand = () => {
           <a href="/">
             <DiJqueryUiLogo className={Style.Brand_box_left_logo} />
           </a>
-          <h1>Cyclone NFT Marketplace</h1>
-          <p>A creative agency that lead and inspire NFTs.</p>
+          <h1>METAil NFT Marketplace</h1>
+          <p>A RETAIL for METAVERSE</p>
 
           <div className={Style.Brand_box_left_btn}>
             <Button

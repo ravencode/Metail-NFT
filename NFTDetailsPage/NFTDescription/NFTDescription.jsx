@@ -18,7 +18,7 @@ const NFTDescription = ({ nft }) => {
     <div className={Style.NFTDescription}>
       <div className={Style.NFTDescription_box}>
         <div className={Style.NFTDescription_box_share}>
-          <p>Cyclone Universe</p>
+          <p>METAil Universe</p>
         </div>
 
         <div className={Style.NFTDescription_box_profile}>

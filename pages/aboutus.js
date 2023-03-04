@@ -13,9 +13,12 @@ const aboutus = () => {
           <div className={Style.aboutus_box_hero_left}>
             <h2>👋 About</h2>
             <p>
-              Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolorum
-              aliquam, dolores non reiciendis dolorem pariatur blanditiis ad
-              nesciunt
+              NFT Marketplace is a decentralized application (dApp) that allows
+              users to buy and sell NFTs. NFTs are non-fungible tokens that
+              represent unique digital assets. NFTs can be used to represent
+              ownership of digital assets such as art, music, videos, and
+              collectibles. NFTs can also be used to represent ownership of
+              physical assets such as real estate, cars, and collectibles.
             </p>
           </div>
           <div className={Style.aboutus_box_hero_right_img}>
@@ -34,11 +37,10 @@ const aboutus = () => {
             />
           </div>
           <div className={Style.aboutus_box_hero_left}>
-            <h2>👋Founder.</h2>
+            <h2>Creators.</h2>
             <p>
-              Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolorum
-              aliquam, dolores non reiciendis dolorem pariatur blanditiis ad
-              nesciunt
+              Creataed by a group of developers who are passionate about
+              blockchain technology and NFTs. 
             </p>
           </div>
         </div>

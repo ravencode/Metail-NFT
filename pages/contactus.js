@@ -21,40 +21,40 @@ const contactus = () => {
           <div className={Style.contactus_box_box_left}>
             <div className={Style.contactus_box_box_left_item}>
               <h3> ADDRESS</h3>
-              <p>No 1 christ ambassador road abuja, Nigeria</p>
+              <p>Sharda University</p>
             </div>
             <div className={Style.contactus_box_box_left_item}>
               <h3>💌 EMAIL</h3>
-              <p>emmatimmybello@gmail.com</p>
+              <p>contactme@gmail.com</p>
             </div>
             <div className={Style.contactus_box_box_left_item}>
               <h3>☎ PHONE</h3>
-              <p>234-813-8349-665</p>
+              <p>123-123-123</p>
             </div>
             <div className={Style.contactus_box_box_left_item}>
               <h3>🌏 SOCIALS</h3>
               <a
-                href="https://www.facebook.com/profile.php?id=100009096397038"
+                href="https://www.facebook.com/"
                 target="_blank"
               >
                 <TiSocialFacebook />
               </a>
               <a
-                href="https://www.linkedin.com/in/oluwatimilehin-bello/"
+                href="https://www.linkedin.com/"
                 target="_blank"
               >
                 <TiSocialLinkedin />
               </a>
-              <a href="https://twitter.com/Timmee_Bello" target="_blank">
+              <a href="https://twitter.com" target="_blank">
                 <TiSocialTwitter />
               </a>
               <a
-                href="https://www.youtube.com/channel/UCDyKFRctmBNBRm1o8-MY4hA"
+                href="https://www.youtube.com/"
                 target="_blank"
               >
                 <TiSocialYoutube />
               </a>
-              <a href="https://www.instagram.com/teemee_bello/" target="_blank">
+              <a href="https://www.instagram.com/" target="_blank">
                 <TiSocialInstagram />
               </a>
             </div>

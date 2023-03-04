@@ -1,12 +1,12 @@
 # Title
 
-Cyclone NFT MarketPlace
+METAil NFT MarketPlace
 
 # Description
 
-Cyclone NFT MarketPlace is a non-fungible token (NFT) marketplace where users can buy, sell, or create NFTs. It is a noncustodial platform, allowing users full control and access to their cryptocurrency wallets. Users interact directly with other users to buy or sell an NFT or a bundle of NFTs.
+METAil NFT MarketPlace is a non-fungible token (NFT) marketplace where users can buy, sell, or create NFTs. It is a noncustodial platform, allowing users full control and access to their cryptocurrency wallets. Users interact directly with other users to buy or sell an NFT or a bundle of NFTs.
 
-The problem that Cyclone NFT marketplace solve is the lack of a standardized way to monetize and authenticate digital assets. Before NFTs, digital assets such as art, music, and collectibles could be easily duplicated or copied, making it difficult for creators to prove ownership and monetize their work. With NFTs, creators can assign a unique token to their digital asset, making it one-of-a-kind and easily verifiable as authentic. This allows creators to sell their work as collectibles or unique items, and buyers to own and trade those items as they would physical assets.
+The problem that METAil NFT marketplace solve is the lack of a standardized way to monetize and authenticate digital assets. Before NFTs, digital assets such as art, music, and collectibles could be easily duplicated or copied, making it difficult for creators to prove ownership and monetize their work. With NFTs, creators can assign a unique token to their digital asset, making it one-of-a-kind and easily verifiable as authentic. This allows creators to sell their work as collectibles or unique items, and buyers to own and trade those items as they would physical assets.
 
 # Snapshot
 
@@ -16,37 +16,23 @@ The problem that Cyclone NFT marketplace solve is the lack of a standardized way
 
 This is a marketplace for NFTs where users can purchase, sell, and create NFTs. It is a decentralised app built on the Ethereum blockchain.
 
-Github Link: https://github.com/Timilehin-bello/cycloneNFT
+Github Link: https://github.com/ravencode/Metail-NFT
 
-Production Link: https://cyclone-nft.vercel.app
+Production Link: https://metail-nft.vercel.app/
 
-# Author
-
-Oluwatimilehin Bello
-Github Link: https://github.com/Timilehin-bello
-
-## Credits
-
-The Cyclone NFT Marketplace of this app was inspired by daulathussain
-(https://github.com/daulathussain/nftMarketplace-Subscription) some of it's Components and styling were used. Also, the contract from this article (https://betterprogramming.pub/creating-an-nft-marketplace-solidity-2323abca6346) was also used. The contract has been optimized to reduce gas fee, unneccessary function has been removed and the component has been modified to work according to my needs.
-
-## !IMPORTANT
-
-My Infura keys has been made available for a while to aid interaction with function.
-It Would be made Unavailable on a later date. It has also been restricted to limit the amount of data that can be uploaded to ipfs to prevent billing.
 
 # How to Install and Run the Project
 
 **Clone the repository**
 
 ```javascript
-git clone https://github.com/Timilehin-bello/cycloneNFT.git
+git clone https://github.com/ravencode/Metail-NFT
 ```
 
 **cd into the Client Folder**
 
 ```bash
-cd cycloneNFT
+cd Metail-NFT
 ```
 
 **Install the dependencies**
@@ -87,7 +73,7 @@ http://localhost:3000
 
 ## Metamask Setup
 
-- Ensure you are using the `Mumbai Test Network` or `Goerli Test Network` on your `metamask wallet`.
+- Ensure you are using the `Mumbai Test Network` on your `metamask wallet`.
 
 ### Polygon Mumbai Network Setup
 
@@ -109,12 +95,12 @@ http://localhost:3000
 
 The smart contract was deployed at:
 
-https://mumbai.polygonscan.com/address/0xEc888ea9Fd9ea5D5c666E9c33D71D38AD7B29eE5
+https://mumbai.polygonscan.com/address/0xe288B549Dc086597D7dBCfb9b0B832cF2900C4bF
 
 With this address:
 
 ```
-0xEc888ea9Fd9ea5D5c666E9c33D71D38AD7B29eE5
+0xe288B549Dc086597D7dBCfb9b0B832cF2900C4bF
 ```
 
 On the `MUMBAI TESTNET`.
