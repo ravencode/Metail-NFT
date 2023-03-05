@@ -11,14 +11,12 @@ const aboutus = () => {
       <div className={Style.aboutus_box}>
         <div className={Style.aboutus_box_hero}>
           <div className={Style.aboutus_box_hero_left}>
-            <h2>👋 About</h2>
+            <h1>👋 About</h1>
             <p>
-              NFT Marketplace is a decentralized application (dApp) that allows
-              users to buy and sell NFTs. NFTs are non-fungible tokens that
-              represent unique digital assets. NFTs can be used to represent
-              ownership of digital assets such as art, music, videos, and
-              collectibles. NFTs can also be used to represent ownership of
-              physical assets such as real estate, cars, and collectibles.
+            METAil is a decentralized digital Ecommerce platform, a retail hub for Metaverse, offering NFTs like exclusive collections and wearables. 
+            <br></br>It also features NFT creation and buying services, with new campaigning and marketing strategies for creators and brands. 
+            METAil is the perfect platform to explore the exciting world of Metaverse.
+
             </p>
           </div>
           <div className={Style.aboutus_box_hero_right_img}>
@@ -37,10 +35,10 @@ const aboutus = () => {
             />
           </div>
           <div className={Style.aboutus_box_hero_left}>
-            <h2>Creators.</h2>
+            <h2>👋 Creators.</h2>
             <p>
-              Creataed by a group of developers who are passionate about
-              blockchain technology and NFTs. 
+              Creataed by a group of 3 developers who are passionate about
+              blockchain technology and NFTs.
             </p>
           </div>
         </div>

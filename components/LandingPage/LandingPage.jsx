@@ -20,8 +20,8 @@ const LandingPage = () => {
           </h1>
           <div className="animate__animated animate__zoomIn">
             <p>
-              The world’s Biggest advanced commercial center for Crypto
-              collectibles and non-fungible tokens.
+              METAil - The world’s Biggest advanced commercial center for Crypto
+              collectibles and non-fungible tokens for METAVERSE.
             </p>
           </div>
           <div className="animate__animated animate__zoomIn">

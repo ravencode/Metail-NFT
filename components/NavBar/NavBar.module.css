@@ -23,7 +23,8 @@
 
 .navbar_logo {
   /* color: var(--icons-color); */
-  font-size: 5rem;
+  margin-right: 8rem;
+  margin-top: 10px;
   cursor: pointer;
 }
 

@@ -1,5 +1,5 @@
 import React, { useState, useEffect, useContext } from "react";
-import { DiJqueryUiLogo } from "react-icons/di";
+import { DiJqueryUiLogo  } from "react-icons/di";
 
 import Style from "./NavBar.module.css";
 import { LearnMore, SideBar } from "./index";
@@ -77,7 +77,7 @@ const NavBar = () => {
       <div className={Style.navbar_container}>
         <div className={Style.navbar_container_left}>
           <div className={Style.navbar_logo}>
-            <DiJqueryUiLogo onClick={() => router.push("/")} />
+            <img src="https://i.ibb.co/vmwNDcf/m-logo-png-3-2.png" alt="Logo" className={Style.logo} onClick={() => router.push("/")} />        
           </div>
           <div className={Style.navbar_container_left_box_input}>
             <div className={Style.navbar_container_left_box_input_box}>
