@@ -4,13 +4,8 @@ METAil NFT MarketPlace
 
 # Description
 
-METAil NFT MarketPlace is a non-fungible token (NFT) marketplace where users can buy, sell, or create NFTs. It is a noncustodial platform, allowing users full control and access to their cryptocurrency wallets. Users interact directly with other users to buy or sell an NFT or a bundle of NFTs.
+METAil is a decentralized digital Ecommerce platform, a retail hub for Metaverse, offering NFTs like exclusive collections and wearables. It also features NFT creation and buying services, with new campaigning and marketing strategies for creators and brands. METAil is the perfect platform to explore the exciting world of Metaverse.
 
-The problem that METAil NFT marketplace solve is the lack of a standardized way to monetize and authenticate digital assets. Before NFTs, digital assets such as art, music, and collectibles could be easily duplicated or copied, making it difficult for creators to prove ownership and monetize their work. With NFTs, creators can assign a unique token to their digital asset, making it one-of-a-kind and easily verifiable as authentic. This allows creators to sell their work as collectibles or unique items, and buyers to own and trade those items as they would physical assets.
-
-# Snapshot
-
-![Cyclone NFT Pages](./img/cyclone-nft-snapshot.gif)
 
 # Link
 
@@ -56,10 +51,10 @@ npx hardhat run --network localhost ./scripts/deploy.js
 **Run the seed Script**
 
 ```javascript
+npx hardhat run --network localhost ./scripts/seed-nfts.js
 ```
 
 **Start the development server**
-npx hardhat run --network localhost ./scripts/seed-nfts.js
 
 ```javascript
 npm run dev
