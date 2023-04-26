@@ -49,27 +49,27 @@ const ProfileCard = ({ currentAccount }) => {
 
           <div className={Style.ProfileCard_box_info_social}>
             <a
-              href="https://www.facebook.com/profile.php?id=100009096397038"
+              href="https://www.facebook.com"
               target="_blank"
             >
               <TiSocialFacebook />
             </a>
             <a
-              href="https://www.linkedin.com/in/oluwatimilehin-bello/"
+              href="https://www.linkedin.com"
               target="_blank"
             >
               <TiSocialLinkedin />
             </a>
-            <a href="https://twitter.com/Timmee_Bello" target="_blank">
+            <a href="https://twitter.com" target="_blank">
               <TiSocialTwitter />
             </a>
             <a
-              href="https://www.youtube.com/channel/UCDyKFRctmBNBRm1o8-MY4hA"
+              href="https://www.youtube.com"
               target="_blank"
             >
               <TiSocialYoutube />
             </a>
-            <a href="https://www.instagram.com/teemee_bello/" target="_blank">
+            <a href="https://www.instagram.com" target="_blank">
               <TiSocialInstagram />
             </a>
           </div>
