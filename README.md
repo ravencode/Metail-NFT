@@ -15,6 +15,8 @@ Github Link: https://github.com/ravencode/Metail-NFT
 
 Production Link: https://metail-nft.vercel.app/
 
+Presentation Link: https://www.canva.com/design/DAFiEvbhwiA/F3z1274mgDvNKZTII2FIaQ/edit?utm_content=DAFiEvbhwiA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
 
 # How to Install and Run the Project
 
