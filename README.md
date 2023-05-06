@@ -17,6 +17,8 @@ Production Link: https://metail-nft.vercel.app/
 
 Presentation Link: https://www.canva.com/design/DAFiEvbhwiA/F3z1274mgDvNKZTII2FIaQ/edit?utm_content=DAFiEvbhwiA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
+Report Link: https://drive.google.com/file/d/1XP8ie4ONhlBx2XadQ_6rG9m6cOrfiFHN/view?usp=drivesdk
+
 
 # How to Install and Run the Project
 
